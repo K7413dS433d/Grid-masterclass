@@ -11,17 +11,6 @@ The Grid Masterclass is a comprehensive learning experience focused on mastering
 - **Responsive Design:** Techniques for creating designs that adapt seamlessly to different screen sizes and devices.
 - **Practical Applications:** Hands-on exercises to apply CSS Grid and responsive design principles.
 
-## Course Highlights
-
-- Detailed explanations of CSS Grid properties and features
-- Strategies for creating responsive and adaptive layouts
-- Real-world examples and practical exercises
-- Tips for optimizing layouts for various devices
-
-## Instructor
-
-A special thank you to the instructors for their expert guidance and support throughout the masterclass.
-
 ## Live Demo
 
 Explore a live demo of the concepts covered in the masterclass: [Grid masterclass](https://grid-masterclass.vercel.app/)
