@@ -24,8 +24,7 @@ A special thank you to the instructors for their expert guidance and support thr
 
 ## Live Demo
 
-Explore a live demo of the concepts covered in the masterclass:
-[Grid masterclass] (Insert Demo Link Here)
+Explore a live demo of the concepts covered in the masterclass: [Grid masterclass](https://grid-masterclass.vercel.app/)
 
 ## Video
 
