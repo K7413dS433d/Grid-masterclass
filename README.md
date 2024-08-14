@@ -30,5 +30,6 @@ Explore a live demo of the concepts covered in the masterclass: [Grid masterclas
 
 Watch the masterclass video to see the techniques in action:
 
+https://github.com/user-attachments/assets/ffec57ce-6df6-4490-81e9-d690f130a664
 
 
